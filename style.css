@@ -1,0 +1,11 @@
+.kort {
+  color: rgb(243, 242, 242);
+  padding: 1rem;
+  font-style: italic;
+  border: 1px solid black;
+  background-color: rgb(38, 85, 154);
+}
+.kort img {
+  max-width: 100%;
+  height: auto;
+}
