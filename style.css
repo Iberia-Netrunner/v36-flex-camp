@@ -1,11 +1,16 @@
+.kort-rad {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
 .kort {
   color: rgb(243, 242, 242);
   padding: 1rem;
   font-style: italic;
   border: 1px solid black;
   background-color: rgb(38, 85, 154);
-  width: 30%;
-  margin-right: 3%;
+  flex: 1 1 200px;
 }
 .kort img {
   max-width: 100%;
